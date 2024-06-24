@@ -1,1 +1,2 @@
 We can't concenate int with string.We must checking data type with type()
+To convert the result of a division to an integer, we only can `//` in the division.
