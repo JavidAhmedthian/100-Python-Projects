@@ -1,2 +1,7 @@
 We can't concenate int with string.We must checking data type with type()
 To convert the result of a division to an integer, we only can `//` in the division.
+To format a number so that it has exactly two digits after the decimal point in Python, you can use the round function or string formatting methods.
+Example:
+number = 3.14159
+formatted_number = round(number, 2)
+print(formatted_number)
