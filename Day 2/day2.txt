@@ -1,1 +1,1 @@
-
+We can't concenate int with string.We must checking data type with type()
