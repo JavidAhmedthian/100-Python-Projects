@@ -1,0 +1,10 @@
+To concatenate the words "Hello" and "World" with a space in between, you can include the space as part of the string you concatenate.
+
+```python
+print("Hello" + " " + "World")
+```
+
+This will output:
+```
+Hello World
+```
